@@ -9,7 +9,7 @@
   "compatibility_date": "2025-04-04",
   "vars": {
     "VALUE_FROM_CLOUDFLARE": "Hello from Cloudflare",
-    "ADMIN_USERNAME": "admin",
+    "ADMIN_USERNAME": "adpmin",
     "ADMIN_PASSWORD": "changeme",
     "SITE_TITLE": "CList",
     "SITE_ANNOUNCEMENT": "Welcome to CList storage service!",
